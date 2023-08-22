@@ -1,17 +1,17 @@
 /* Media Queries */
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 95vw) {
   .category {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 61vw) {
   .category {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 71vw) {
   header {
     display: inline-block;
     text-align: center;
@@ -22,9 +22,9 @@
   }
 }
 
-@media screen and (min-width: 1770px) {
+@media screen and (min-width: 140vw) {
   body {
-    max-width: 1440px;
+    max-width: 114vw;
   }
 }
 
