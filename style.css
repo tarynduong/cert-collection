@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-color: #99A8B2;
+  background-color: #1F4287;
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   font-size: 1.6rem;
@@ -28,7 +28,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 1.5rem;
-  background-color: #161616;
+  background-color: #1F4287;
 }
 
 header h1 {
@@ -92,7 +92,7 @@ h2 {
 }
 
 .category .certificate a {
-  background-color: #474747;
+  background-color: #278EA5;
   color: #ffffff;
   padding: 0.8rem 1.2rem;
   margin-right: .5rem;
